@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constellations</key>
+	<array>
+		<string>魔羯座</string>
+		<string>水瓶座</string>
+		<string>双鱼座</string>
+		<string>牡羊座</string>
+		<string>金牛座</string>
+		<string>双子座</string>
+		<string>巨蟹座</string>
+		<string>狮子座</string>
+		<string>处女座</string>
+		<string>天秤座</string>
+		<string>天蝎座</string>
+		<string>射手座</string>
+	</array>
+	<key>PersonalDetailInfoViewController</key>
+	<dict>
+		<key>OneInfoModel</key>
+		<array>
+			<string>发布过的约会</string>
+			<string>参加过的地方</string>
+			<string>常出没的地方</string>
+		</array>
+		<key>TwoSideModel</key>
+		<array>
+			<dict>
+				<key>userOccupation</key>
+				<string>职业</string>
+			</dict>
+			<dict>
+				<key>userIfSmokingString</key>
+				<string>是否抽烟</string>
+			</dict>
+			<dict>
+				<key>userIfDrinkingString</key>
+				<string>是否喝洒</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
